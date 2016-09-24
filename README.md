@@ -1,2 +1,2 @@
 # Parasian-MC-Option-Pricing
-A Monte Carlo simulator to price Parasian options under GBM.
+A Monte Carlo simulator to price a Parasian Up and Out Call options under GBM.
